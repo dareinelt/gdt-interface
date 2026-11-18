@@ -1,0 +1,3 @@
+# GDT files are byte-exact: lengths include the line ending.
+# Never let Git normalize line endings or treat them as text.
+*.gdt binary
