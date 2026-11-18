@@ -54,4 +54,8 @@ All sample files use synthetic data. Never commit real patient data.
 
 ## License
 
-No license is declared yet — add one before redistributing.
+MIT — see [LICENSE](LICENSE).
+
+Note that the GDT specification itself is published by the QMS e.V. under its
+own terms of use; this repository only contains an independent implementation
+and documentation summary.
